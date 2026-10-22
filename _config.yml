@@ -28,7 +28,7 @@ author:
   pronouns         : "she/her/hers"  
   bio              : "Welcome to my webpage!"
   location         : "Boston"
-  employer         : "Boston University School of Public Health"
+  employer         : "Boston University"
   uri              : # URL
   email            : "ziyuexu@bu.edu" 
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/ziyue-xu-1656b8179/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
