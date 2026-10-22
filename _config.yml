@@ -28,7 +28,7 @@ author:
   pronouns         : "she/her/hers"  
   bio              : "Welcome to my webpage!"
   location         : "Boston"
-  employer         : #
+  employer         : "Boston University"
   uri              : "https://ziyuexu-economics.github.io"
   email            : "ziyuexu@bu.edu" 
 
@@ -237,10 +237,10 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
+  # home
   - scope:
       path: ""
-      type: posts
+      type: home
     values:
       layout: single
       author_profile: true
@@ -248,14 +248,23 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+  # research
   - scope:
       path: ""
-      type: pages
+      type: research
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # CV
+  - scope:
+      path: ""
+      type: CV
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # teaching
   - scope:
       path: ""
       type: teaching
@@ -264,32 +273,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # life
   - scope:
       path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
+      type: life
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+ 
 
 
 # Sass/SCSS
