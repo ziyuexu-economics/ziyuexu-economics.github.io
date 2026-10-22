@@ -24,13 +24,13 @@ repository               : "ziyuexu-economics/ziyuexu-economics.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Ziyue Xu"
+  pronouns         : "she/her/hers"  
+  bio              : "Welcome to my webpage!"
+  location         : "Boston"
+  employer         : "Boston University School of Public Health"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ziyuexu@bu.edu" 
 
   # Academic websites
   academia         : # URL
