@@ -28,7 +28,7 @@ author:
   pronouns         : "she/her/hers"  
   bio              : "Welcome to my webpage!"
   location         : "Boston"
-  employer         : "Boston University"
+  employer         : #
   uri              : "https://ziyuexu-economics.github.io"
   email            : "ziyuexu@bu.edu" 
 
